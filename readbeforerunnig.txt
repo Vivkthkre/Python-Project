@@ -1,0 +1,3 @@
+Make a new folder in D: Python
+Put image  burger.png in this folder.
+The path will look like D:\\Python\\burger.png
